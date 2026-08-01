@@ -168,7 +168,7 @@ export default function Navbar({ onOpenQuote, onOpenSearch }) {
                   className="w-full py-3 rounded-xl bg-white/5 text-gray-200 font-medium flex items-center justify-center gap-2 border border-white/10"
                 >
                   <PhoneCall className="w-4 h-4 text-brand-orange" />
-                  <span>Call +91 98400 00000</span>
+                  <span>Call +91 9363323262</span>
                 </a>
               </div>
             </div>
