@@ -44,7 +44,7 @@ export default function FloatingWidgets({ onOpenQuote }) {
 
         {/* Call Now Floating */}
         <a
-          href="tel:+919840000000"
+          href="tel:+919363323262"
           className="p-3.5 rounded-full bg-brand-dark-surface/90 text-white border border-white/20 shadow-xl backdrop-blur-md hover:border-brand-orange hover:scale-110 transition-all flex items-center justify-center group"
           title="Call Industrial Sales Desk"
         >
@@ -53,7 +53,7 @@ export default function FloatingWidgets({ onOpenQuote }) {
 
         {/* WhatsApp Direct Connect Floating */}
         <a
-          href={`https://wa.me/919840000000?text=${whatsappMessage}`}
+          href={`https://wa.me/919363323262?text=${whatsappMessage}`}
           target="_blank"
           rel="noopener noreferrer"
           className="p-4 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white shadow-2xl hover:scale-110 transition-all flex items-center justify-center group"
@@ -67,7 +67,7 @@ export default function FloatingWidgets({ onOpenQuote }) {
       {/* Sticky Bottom Bar for Mobile Devices */}
       <div className="sm:hidden fixed bottom-0 left-0 right-0 z-40 bg-brand-dark/95 backdrop-blur-md border-t border-brand-dark-border p-3 flex items-center justify-between gap-3 shadow-2xl">
         <a
-          href="tel:+919840000000"
+          href="tel:+919363323262"
           className="flex-1 py-2.5 rounded-xl bg-white/10 text-white font-heading font-semibold text-xs flex items-center justify-center gap-2 border border-white/10"
         >
           <PhoneCall className="w-4 h-4 text-brand-orange" />
