@@ -164,7 +164,7 @@ export default function Navbar({ onOpenQuote, onOpenSearch }) {
                 </button>
 
                 <a
-                  href="tel:+919840000000"
+                  href="tel:+919363323262"
                   className="w-full py-3 rounded-xl bg-white/5 text-gray-200 font-medium flex items-center justify-center gap-2 border border-white/10"
                 >
                   <PhoneCall className="w-4 h-4 text-brand-orange" />
