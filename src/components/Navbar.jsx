@@ -91,11 +91,11 @@ export default function Navbar({ onOpenQuote, onOpenSearch }) {
 
             {/* Quick Call */}
             <a
-              href="tel:+919840000000"
+              href="tel:+919363323262"
               className="hidden xl:flex items-center gap-2 text-xs font-semibold text-gray-300 hover:text-brand-orange px-3 py-2 rounded-xl border border-white/5 hover:border-brand-orange/30 transition-all"
             >
               <PhoneCall className="w-3.5 h-3.5 text-brand-orange animate-pulse" />
-              <span>+91 98400 00000</span>
+              <span>+91 9363323262</span>
             </a>
 
             {/* Request Quote Primary Button */}
